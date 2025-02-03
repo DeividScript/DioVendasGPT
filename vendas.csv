@@ -1,0 +1,51 @@
+Data,Produto,Cidade,Regiao,Vendedor,Quantidade,Preco Unitario,Total
+2023-07-02,Smartphone Galaxy S23,São Paulo,Sudeste,João Silva,10,4500.00,45000.00
+2023-07-02,Notebook Dell Inspiron,Rio de Janeiro,Sudeste,Maria Souza,5,3200.00,16000.00
+2023-07-03,Smart TV LG 55",Belo Horizonte,Sudeste,Pedro Santos,12,2800.00,33600.00
+2023-07-03,Fone de Ouvido Bluetooth Sony,Brasília,Centro-Oeste,Ana Oliveira,8,900.00,7200.00
+2023-07-04,Tablet Samsung Galaxy Tab S8,Curitiba,Sul,Carlos Pereira,7,2500.00,17500.00
+2023-07-05,Câmera Canon EOS Rebel,Porto Alegre,Sul,Sofia Ribeiro,15,3000.00,45000.00
+2023-07-05,Monitor Gamer Dell 27",Salvador,Nordeste,Ricardo Fernandes,6,1800.00,10800.00
+2023-07-06,Impressora HP LaserJet,Recife,Nordeste,Isabela Costa,9,1200.00,10800.00
+2023-07-09,Mouse Gamer Logitech G502,Fortaleza,Nordeste,Bruno Martins,11,400.00,4400.00
+2023-07-09,Teclado Mecânico Corsair K70,Goiânia,Centro-Oeste,Beatriz Almeida,13,600.00,7800.00
+2023-07-10,HD Externo Seagate 1TB,Manaus,Norte,André Rodrigues,4,500.00,2000.00
+2023-07-10,SSD Samsung 980 Pro,Belém,Norte,Carolina Gomes,14,800.00,11200.00
+2023-07-11,Webcam Logitech C920,São Paulo,Sudeste,Eduardo Cunha,16,700.00,11200.00
+2023-07-12,Caixa de Som JBL Flip 6,Rio de Janeiro,Sudeste,Mariana Pinto,2,600.00,1200.00
+2023-07-12,Drone DJI Mini 3 Pro,Belo Horizonte,Sudeste,Diogo Carvalho,18,4500.00,81000.00
+2023-07-13,Console Playstation 5,Brasília,Centro-Oeste,Inês Lopes,3,4000.00,12000.00
+2023-07-16,Headset Gamer HyperX Cloud Stinger,Curitiba,Sul,Gustavo Melo,20,300.00,6000.00
+2023-07-16,Roteador Wireless TP-Link Archer AX21,Porto Alegre,Sul,Leonor Santos,17,500.00,8500.00
+2023-07-17,Smartwatch Apple Watch Series 7,Salvador,Nordeste,Henrique Pereira,1,2500.00,2500.00
+2023-07-17,Carregador Portátil Anker PowerCore,Recife,Nordeste,Margarida Costa,19,200.00,3800.00
+2023-07-18,Projetor Epson PowerLite,Fortaleza,Nordeste,Tiago Martins,22,3500.00,77000.00
+2023-07-19,Microfone Blue Yeti,Goiânia,Centro-Oeste,Lara Almeida,21,800.00,16800.00
+2023-07-19,Gabinete Gamer Corsair 4000D Airflow,Manaus,Norte,Rodrigo Rodrigues,23,700.00,16100.00
+2023-07-20,Placa de Vídeo NVIDIA GeForce RTX 3060,Belém,Norte,Francisca Gomes,24,2500.00,60000.00
+2023-07-23,Processador Intel Core i7,São Paulo,Sudeste,Rafael Cunha,7,2000.00,14000.00
+2023-07-23,Placa Mãe ASUS ROG Maximus Z690,Rio de Janeiro,Sudeste,Matilde Pinto,9,1500.00,13500.00
+2023-07-24,Memória RAM Corsair Vengeance LPX 16GB,Belo Horizonte,Sudeste,Tomás Carvalho,25,400.00,10000.00
+2023-07-24,Fonte Corsair RM850x,Brasília,Centro-Oeste,Sara Lopes,26,800.00,20800.00
+2023-07-25,Water Cooler Corsair iCUE H150i Elite LCD,Curitiba,Sul,Guilherme Melo,27,1200.00,32400.00
+2023-07-26,Monitor Ultrawide LG 34",Porto Alegre,Sul,Daniela Santos,28,3500.00,98000.00
+2023-07-26,Mousepad Gamer Razer Goliathus Extended Chroma,Salvador,Nordeste,Gonçalo Pereira,29,250.00,7250.00
+2023-07-27,Cadeira Gamer DT3sports,Recife,Nordeste,Filipa Costa,30,1500.00,45000.00
+2023-07-30,Mesa Digitalizadora Wacom Intuos,Fortaleza,Nordeste,Afonso Martins,5,1000.00,5000.00
+2023-07-30,Kindle Paperwhite,Goiânia,Centro-Oeste,Iara Almeida,31,600.00,18600.00
+2023-07-31,Echo Dot (4ª Geração),Manaus,Norte,Lourenço Rodrigues,32,300.00,9600.00
+2023-08-01,AirPods Pro,Belém,Norte,Eva Gomes,33,1200.00,39600.00
+2023-08-02,iPad Air,São Paulo,Sudeste,David Cunha,34,3500.00,119000.00
+2023-08-02,MacBook Pro,Rio de Janeiro,Sudeste,Sofia Pinto,35,10000.00,350000.00
+2023-08-03,GoPro HERO10 Black,Belo Horizonte,Sudeste,Miguel Carvalho,36,2500.00,90000.00
+2023-08-06,Ring Light,Brasília,Centro-Oeste,Diana Lopes,37,200.00,7400.00
+2023-08-06,Amazon Fire TV Stick 4K,Curitiba,Sul,Gabriel Melo,38,400.00,15200.00
+2023-08-07,Chromecast com Google TV,Porto Alegre,Sul,Alice Santos,39,350.00,13650.00
+2023-08-07,Fone de Ouvido com Fio JBL,Salvador,Nordeste,Santiago Pereira,40,150.00,6000.00
+2023-08-08,Caixa de Som Bluetooth JBL Xtreme 3,Recife,Nordeste,Íris Costa,41,1800.00,73800.00
+2023-08-09,Controle Xbox Series X,Fortaleza,Nordeste,Leonardo Martins,42,600.00,25200.00
+2023-08-09,Monitor Gamer AOC 24",Goiânia,Centro-Oeste,Maria Almeida,43,1000.00,43000.00
+2023-08-10,Teclado e Mouse sem Fio Logitech MK270,Manaus,Norte,Martim Rodrigues,44,200.00,8800.00
+2023-08-10,Impressora Multifuncional Epson EcoTank L3250,Belém,Norte,Madalena Gomes,45,1500.00,67500.00
+2023-08-13,Smart TV Samsung 65" 4K,São Paulo,Sudeste,Simão Cunha,46,5000.00,230000.00
+2023-08-13,Notebook Gamer Acer Predator Helios 300,Rio de Janeiro,Sudeste,Constança Pinto,47,6000.00,282000.00
